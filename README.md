@@ -8,9 +8,9 @@
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | SCHG        | 60%         |
-| VBK         | 20%         |
+| EFG         | 20%         |
 | VOT         | 10%         |
-| EFG         | 10%         |
+| VBK         | 10%         |
 
 ## AMAZON 401(K) PLAN 
 | Ticker      | Percentage  |
@@ -18,3 +18,9 @@
 | Vanguard Target 2060       | 100%        |
 
 
+## M1 Finance Portfolio 
+
+| Ticker      | Percentage  |
+| ----------- | ----------- |
+| VT          | 90%         |
+|
