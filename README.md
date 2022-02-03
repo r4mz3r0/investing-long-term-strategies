@@ -3,6 +3,8 @@
 ## Roth IRA PIE 
 - Maximum contribution of 6,000 a year 
 - Aggressive Global Growth 
+
+
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | SCHG        | 60%         |
