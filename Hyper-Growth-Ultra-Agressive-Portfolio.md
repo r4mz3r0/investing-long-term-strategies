@@ -21,4 +21,7 @@ The most optimal long term investing strategy
 | ----------- | ----------- |
 | AMZN - Amazon.com, Inc.| 100% |
 
-
+## Cash on hand 
+| Ticker      | Percentage  |
+| ----------- | ----------- |
+| Cash Money| 0% |
