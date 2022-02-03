@@ -11,3 +11,10 @@
 | VBK         | 20%         |
 | VOT         | 10%         |
 | EFG         | 10%         |
+
+## AMAZON 401(K) PLAN 
+| Ticker      | Percentage  |
+| ----------- | ----------- |
+| Vanguard Target 2060       | 100%        |
+
+
