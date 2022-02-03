@@ -5,6 +5,12 @@
 | Fidelity ZERO Total Market Index Fund (FZROX) | 42% |
 | Fidelity U. S. Bond Index Fund (FXNAX) | 40%         |
 | Fidelity ZERO International Index Fund (FZILX) | 18% |
+## M1 Finance Portfolio - 2 Fund Portfolio
+
+| Ticker      | Percentage  |
+| ----------- | ----------- |
+| VT          | 90%         |
+|BND          |10%          |
 
 ## Roth IRA PIE 
 - Maximum contribution of 6,000 a year 
@@ -24,9 +30,3 @@
 | Vanguard Target 2060       | 100%        |
 
 
-## M1 Finance Portfolio 
-
-| Ticker      | Percentage  |
-| ----------- | ----------- |
-| VT          | 90%         |
-|BND          |10%          |
