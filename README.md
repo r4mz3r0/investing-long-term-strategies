@@ -1,4 +1,5 @@
 # investing-long-term-strategies
+Here is an example of my current strategies across my different accounts
 ## Taxable Account - 3 Fund Portfolio 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
