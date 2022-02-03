@@ -13,7 +13,7 @@ Here is an example of my current strategies across my different accounts
 | VT          | 90%         |
 |BND          |10%          |
 
-## Roth IRA PIE 
+## Roth IRA 
 - Maximum contribution of 6,000 a year 
 - Aggressive Global Growth 
 
