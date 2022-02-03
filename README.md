@@ -1,4 +1,10 @@
 # investing-long-term-strategies
+## Taxable Account - 3 Fund Portfolio 
+| Ticker      | Percentage  |
+| ----------- | ----------- |
+| Fidelity ZERO Total Market Index Fund (FZROX) | 42% |
+| Fidelity U. S. Bond Index Fund (FXNAX) | 40%         |
+| Fidelity ZERO International Index Fund (FZILX) | 18% |
 
 ## Roth IRA PIE 
 - Maximum contribution of 6,000 a year 
