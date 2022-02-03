@@ -10,7 +10,6 @@ The most optimal long term investing strategy
 
 ## Roth IRA
 - Maximum contribution of 6,000 a year 
-- Aggressive Global Growth 
 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
