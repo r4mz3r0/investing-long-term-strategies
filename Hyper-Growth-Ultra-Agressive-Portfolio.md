@@ -7,7 +7,7 @@ The most optimal long term investing strategy
 | AMZN - Amazon.com, Inc.| 100% |
 
 
-## Roth IRA PIE 
+## Roth IRA
 - Maximum contribution of 6,000 a year 
 - Aggressive Global Growth 
 
