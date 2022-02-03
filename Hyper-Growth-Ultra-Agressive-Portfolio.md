@@ -1,7 +1,7 @@
 # investing-long-term-strategies
 The most optimal long term investing strategy
 
-## Taxable Accounts - 3 Fund Portfolio 
+## Taxable Accounts - 1 Fund Portfolio 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | AMZN - Amazon.com, Inc.| 100% |
