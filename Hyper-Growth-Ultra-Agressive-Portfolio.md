@@ -1,5 +1,6 @@
 # investing-long-term-strategies
-The most optimal long term investing strategy
+The most optimal long term investing strategy according to Amazon 
+> Leaders think long term and don't sacrifice long-term value for short-term results.
 
 ## Taxable Accounts - 1 Fund Portfolio 
 | Ticker      | Percentage  |
