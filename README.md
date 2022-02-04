@@ -3,9 +3,9 @@ Here is an example of my current strategies across my different accounts
 ## Taxable Account - 3 Fund Portfolio 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-| Fidelity ZERO Total Market Index Fund (FZROX) | 42% |
-| Fidelity U. S. Bond Index Fund (FXNAX) | 40%         |
-| Fidelity ZERO International Index Fund (FZILX) | 18% |
+| Fidelity ZERO Total Market Index Fund (FZROX) | 65% |
+| Fidelity ZERO International Index Fund (FZILX) | 20% |
+| Fidelity U. S. Bond Index Fund (FXNAX) | 15%         |
 ## M1 Finance Portfolio - 2 Fund Portfolio
 
 | Ticker      | Percentage  |
