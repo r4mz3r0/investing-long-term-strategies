@@ -14,16 +14,15 @@ Here is an example of my current strategies across my different accounts
 | Fidelity ZERO International Index Fund (FZILX) | 20% |
 | Fidelity U. S. Bond Index Fund (FXNAX) | 15%         |
 
-## Roth IRA 
-- Maximum contribution of 6,000 a year 
+## Roth IRA  
 - Aggressive Global Growth 
 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-| SCHG        | 60%         |
-| EFG         | 20%         |
-| VOT         | 10%         |
-| VBK         | 10%         |
+| SCHG - Schwab US Large-Cap Growth ETF | 60%         |
+| EFG - iShares MSCI EAFE Growth ETF| 20%         |
+| VOT - Vanguard Mid-Cap Growth Index Fund ETF | 10%         |
+| VBK - Vanguard Small-Cap Growth Index Fund ETF| 10%         |
 
 ## AMAZON 401(K) PLAN 
 | Ticker      | Percentage  |
