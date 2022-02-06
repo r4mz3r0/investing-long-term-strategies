@@ -5,7 +5,7 @@ Here is an example of my current strategies across my different accounts
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | VT -Vanguard Total World Stock Index Fund ETF | 90%         |
-|Vanguard Total Bond Market Index Fund ETF       |10%          |
+| BND - Vanguard Total Bond Market Index Fund ETF       |10%          |
 
 ## Taxable Account - 3 Fund Portfolio 
 | Ticker      | Percentage  |
