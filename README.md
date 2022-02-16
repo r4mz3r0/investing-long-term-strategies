@@ -15,8 +15,6 @@ Here is an example of my current strategies across my different accounts
 | Fidelity U. S. Bond Index Fund (FXNAX) | 15%         |
 
 ## Roth IRA  
-- Aggressive Global Growth 
-
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | SCHG - Schwab US Large-Cap Growth ETF | 60%         |
