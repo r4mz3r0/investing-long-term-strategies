@@ -17,7 +17,8 @@ Here is an example of my current strategies across my different accounts
 ## Roth IRA  
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-| SCHG - Schwab US Large-Cap Growth ETF | 60%         |
+|Vanguard Total Stock Market Index Fund (VTSAX| 30%|
+| SCHG - Schwab US Large-Cap Growth ETF | 30%         |
 | EFG - iShares MSCI EAFE Growth ETF| 20%         |
 | VOT - Vanguard Mid-Cap Growth Index Fund ETF | 10%         |
 | VBK - Vanguard Small-Cap Growth Index Fund ETF| 10%         |
@@ -31,3 +32,6 @@ Here is an example of my current strategies across my different accounts
 # MISC 
 Single Stocks 
 -iShares Core High Dividend ETF (Should be put in a tax advantaged account) 
+# To Do 
+- Rebalance to The** Vanguard Total Stock Market Index Fund (VTSAX)** for Roth IRA in 2030
+ 
