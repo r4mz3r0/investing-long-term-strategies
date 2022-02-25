@@ -17,7 +17,8 @@ Here is an example of my current strategies across my different accounts
 ## Roth IRA  
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-|Schwab Total Stock Market Index Fund | 40%|
+|Schwab Total Stock Market Index Fund | 90%|
+|Mix ETF & Index Funds | 10%|
 
 ## AMAZON 401(K) PLAN 
 | Ticker      | Percentage  |
