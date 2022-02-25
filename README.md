@@ -28,3 +28,6 @@ Here is an example of my current strategies across my different accounts
 | Vanguard Target 2060       | 100%        |
 
 
+# MISC 
+Single Stocks 
+-iShares Core High Dividend ETF (Should be put in a tax advantaged account) 
