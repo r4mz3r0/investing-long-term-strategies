@@ -35,3 +35,10 @@ Single Stocks
 # To Do 
 - Rebalance to The** Vanguard Total Stock Market Index Fund (VTSAX)** for Roth IRA in 2030
  
+# Notes 
+"Moreover, mutual funds will automatically
+reinvest all dividends back into the fund whereas additional
+transactions could be required to reinvest ETF dividends. We
+recommend that individuals making periodic contributions to a
+retirement plan use low-cost indexed mutual funds rather than
+ETFs."
