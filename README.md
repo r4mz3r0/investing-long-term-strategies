@@ -17,7 +17,7 @@ Here is an example of my current strategies across my different accounts
 ## Roth IRA  
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-|Vanguard Total Stock Market Index Fund (VTSAX)| 40%|
+|FXAIX S&P 500 Index Fund| 40%|
 | SCHG - Schwab US Large-Cap Growth ETF | 20%         |
 | EFG - iShares MSCI EAFE Growth ETF| 20%         |
 | VOT - Vanguard Mid-Cap Growth Index Fund ETF | 10%         |
