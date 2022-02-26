@@ -39,6 +39,7 @@ transactions could be required to reinvest ETF dividends. We
 recommend that individuals making periodic contributions to a
 retirement plan use low-cost indexed mutual funds rather than
 ETFs."
-# Favorite to buy when markets are in a downturn 
-Keep money in cash ready to be invested during market corrections
+# Market downturns
+When the market is rising save cash and invest it only during a market correct. 
 - SWTSX - Schwab Total Stock Market Index (SWTSX) 
+- Favorite individual stocks 
