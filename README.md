@@ -1,5 +1,6 @@
 # investing-long-term-strategies
-Here is an example of my current strategies across my different accounts
+Here is an example of my current strategies across my different accounts. 
+- Slowy rebalance towards this asset allocation. 
 ## M1 Finance Taxable Account - 2 Fund Portfolio
 
 | Ticker      | Percentage  |
@@ -42,4 +43,4 @@ ETFs."
 # Market downturns
 When the market is rising save cash and invest it only during a market correct. 
 - SWTSX - Schwab Total Stock Market Index (SWTSX) 
-- Favorite individual stocks 
+- ETFs, Mutual Funds, and Individual stocks 
