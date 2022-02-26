@@ -39,3 +39,4 @@ transactions could be required to reinvest ETF dividends. We
 recommend that individuals making periodic contributions to a
 retirement plan use low-cost indexed mutual funds rather than
 ETFs."
+- SWTSX - Schwab Total Stock Market Index (SWTSX) 
