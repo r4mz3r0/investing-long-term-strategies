@@ -25,7 +25,10 @@ Here is an example of my current strategies across my different accounts.
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | Vanguard Target 2060       | 100%        |
-
+## Robinhood 
+| Ticker      | Percentage  |
+| ----------- | ----------- |
+| Short Term & For Fun    | 100%        |
 
 # MISC 
 Single Stocks 
