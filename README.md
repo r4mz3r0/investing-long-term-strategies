@@ -24,7 +24,7 @@ Here is an example of my current strategies across my different accounts.
 ## Roth IRA  
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-|Schwab Total Stock Market Index Fund | 100%|
+|Vanguard Total World Stock Index Fund Admiral Shares (VTWAX)| 100%|
 
 ## AMAZON 401(K) PLAN 
 | Ticker      | Percentage  |
