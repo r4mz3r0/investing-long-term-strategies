@@ -25,11 +25,17 @@ Here is an example of my current strategies across my different accounts.
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | Vanguard Target 2060       | 100%        |
+## Acorns
+| Ticker      | Percentage  |
+| ----------- | ----------- |
+| VOO      | 55%        |
+| IXUS    | 30%        |
+| IJH     | 10%        |
+| IJR     | 5%        |
 ## Robinhood 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | Short Term & For Fun    | 100%        |
-
 # MISC 
 Single Stocks 
 -iShares Core High Dividend ETF (Should be put in a tax advantaged account) 
