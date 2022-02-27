@@ -18,8 +18,8 @@ Here is an example of my current strategies across my different accounts.
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | Fidelity ZERO Total Market Index Fund (FZROX) | 65% |
-| Fidelity ZERO International Index Fund (FZILX) | 20% |
-| Fidelity U. S. Bond Index Fund (FXNAX) | 15%         |
+| Fidelity ZERO International Index Fund (FZILX) | 25% |
+| Fidelity U. S. Bond Index Fund (FXNAX) | 10%         |
 
 ## Roth IRA  
 | Ticker      | Percentage  |
