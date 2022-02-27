@@ -46,7 +46,7 @@ Single Stocks
 -iShares Core High Dividend ETF (Should be put in a tax advantaged account) 
 # To Do 
 - Rebalance to The** Vanguard Total Stock Market Index Fund (VTSAX)** for Roth IRA in 2030
- 
+ - Buy an I Savings Bond https://www.treasurydirect.gov/indiv/products/prod_ibonds_glance.htm 
 # Notes 
 "Moreover, mutual funds will automatically
 reinvest all dividends back into the fund whereas additional
