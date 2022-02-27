@@ -24,8 +24,7 @@ Here is an example of my current strategies across my different accounts.
 ## Roth IRA  
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-|Schwab Total Stock Market Index Fund | 90%|
-|Mix ETF & Index Funds | 10%|
+|Schwab Total Stock Market Index Fund | 100%|
 
 ## AMAZON 401(K) PLAN 
 | Ticker      | Percentage  |
@@ -41,7 +40,7 @@ Here is an example of my current strategies across my different accounts.
 ## Robinhood 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-| Short Term & For Fun    | 100%        |
+| Short Term & Individual Stocks &  For Fun    | 100%        |
 # MISC 
 Single Stocks 
 -iShares Core High Dividend ETF (Should be put in a tax advantaged account) 
