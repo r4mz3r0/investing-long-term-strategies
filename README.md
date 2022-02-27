@@ -1,6 +1,12 @@
 # investing-long-term-strategies
 Here is an example of my current strategies across my different accounts. 
 - Slowy rebalance towards this asset allocation. 
+- Invest often and passively. 
+## Emergency Fund
+
+| Ticker      | Percentage  |
+| ----------- | ----------- |
+| Cash| 2 months pay         |
 ## M1 Finance Taxable Account - 2 Fund Portfolio
 
 | Ticker      | Percentage  |
