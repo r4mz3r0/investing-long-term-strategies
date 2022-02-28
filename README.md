@@ -57,3 +57,5 @@ ETFs."
 When the market is rising save cash and invest it only during a market correct. 
 - SWTSX - Schwab Total Stock Market Index (SWTSX) 
 - ETFs, Mutual Funds, and Individual stocks 
+# Bond yields are too low 
+- Replace with SPYD? 
