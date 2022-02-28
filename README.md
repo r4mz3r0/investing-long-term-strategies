@@ -53,6 +53,12 @@ transactions could be required to reinvest ETF dividends. We
 recommend that individuals making periodic contributions to a
 retirement plan use low-cost indexed mutual funds rather than
 ETFs."
+# Rebalance Dates 
+- 04-01-2023
+- 04-01-2024
+.......
+- 04-01-2060
+
 # Market downturns
 When the market is rising save cash and invest it only during a market correct. 
 - SWTSX - Schwab Total Stock Market Index (SWTSX) 
