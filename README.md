@@ -40,7 +40,7 @@ Here is an example of my current strategies across my different accounts.
 ## Robinhood (Strategy Testing & Entertainment Only) 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-| Short Term & Individual Stocks &  For Fun    | 100%        |
+| Short Term & Individual Stocks (For fun)  | 100%        |
 # MISC 
 Single Stocks 
 -iShares Core High Dividend ETF (Should be put in a tax advantaged account) 
