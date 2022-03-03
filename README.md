@@ -37,7 +37,7 @@ Here is an example of my current strategies across my different accounts.
 | IXUS    | 30%        |
 | IJH     | 10%        |
 | IJR     | 5%        |
-## Robinhood (Entertainment Only) 
+## Robinhood (Strategy Testing & Entertainment Only) 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | Short Term & Individual Stocks &  For Fun    | 100%        |
