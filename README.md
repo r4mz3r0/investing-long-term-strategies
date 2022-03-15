@@ -31,12 +31,12 @@ Here is an example of my current strategies across my different accounts.
 | ----------- | ----------- |
 | Vanguard Target 2060       | 100%        |
 ## Acorns
-| Ticker      | Percentage  |
-| ----------- | ----------- |
-| VOO      | 55%        |
-| IXUS    | 30%        |
-| IJH     | 10%        |
-| IJR     | 5%        |
+| Ticker      | Percentage  | ESG | Percentage | 
+| ----------- | ----------- |----------- | ----------- |
+| VOO      | 55%        |ESGU | Percentage | 
+| IXUS    | 30%        |SUSA | Percentage | 
+| IJH     | 10%        |ESML| Percentage | 
+| IJR     | 5%        |ESGD | Percentage | 
 ## Robinhood (Strategy Testing & Entertainment Only) 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
