@@ -33,10 +33,11 @@ Here is an example of my current strategies across my different accounts.
 ## Acorns
 | Ticker      | Percentage  | ESG | Percentage | 
 | ----------- | ----------- |----------- | ----------- |
-| VOO      | 55%        |ESGU | Percentage | 
-| IXUS    | 30%        |SUSA | Percentage | 
-| IJH     | 10%        |ESML| Percentage | 
-| IJR     | 5%        |ESGD | Percentage | 
+| VOO      | 55%        |ESGU | 55% | 
+| IXUS    | 30%        |SUSA | 10%| 
+| IJH     | 10%        |ESML| 5% | 
+| IJR     | 5%        |ESGD |22% | 
+|   |         |ESGE | 8% | 
 ## Robinhood (Strategy Testing & Entertainment Only) 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
