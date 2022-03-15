@@ -43,7 +43,7 @@ Here is an example of my current strategies across my different accounts.
 | Short Term & Individual Stocks (For fun)  | 100%        |
 | VBK - Canguard Small-Cap Growth ETF  | N/A     |
 | VOT - Vanguard Mid-Cap Growth ETF  | N/A     |
-| IDEV - iShares Core MSCI Interantional Developed Markets  | N/A   |
+| IDEV - iShares Core MSCI International Developed Markets  | N/A   |
 # MISC 
 Single Stocks 
 -iShares Core High Dividend ETF (Should be put in a tax advantaged account) 
