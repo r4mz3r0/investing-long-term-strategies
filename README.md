@@ -31,7 +31,7 @@ Here is an example of my current strategies across my different accounts.
 | ----------- | ----------- |
 | Vanguard Target 2060       | 100%        |
 ## Acorns
-| Ticker      | Percentage  | ESG | Percentage | 
+| Ticker      | Percentage  | ESG  Ticker| Percentage | 
 | ----------- | ----------- |----------- | ----------- |
 | VOO      | 55%        |ESGU | 55% | 
 | IXUS    | 30%        |SUSA | 10%| 
