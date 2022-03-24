@@ -46,6 +46,7 @@ Here is an example of my current strategies across my different accounts.
 | VOT - Vanguard Mid-Cap Growth ETF  | N/A     |
 | VWO - Vanguard FTSE Emerging Markets | N/A   |
 | IDEV - iShares Core MSCI International Developed Markets  | N/A   |
+|Invesco QQQ Trust Series | N/A |
 # MISC 
 Single Stocks 
 -iShares Core High Dividend ETF (Should be put in a tax advantaged account) 
