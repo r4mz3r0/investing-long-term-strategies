@@ -30,7 +30,7 @@ Here is an example of my current strategies across my different accounts.
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | Vanguard Target 2060       | 100%        |
-## Acorns
+## Acorns (Personal & Kids)
 | Ticker      | Percentage  | ESG  Ticker| Percentage | 
 | ----------- | ----------- |----------- | ----------- |
 | VOO      | 55%        |ESGU | 55% | 
