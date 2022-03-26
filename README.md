@@ -73,3 +73,8 @@ When the market is rising save cash and invest it only during a market correct.
 - ETFs, Mutual Funds, and Individual stocks 
 # Bond yields are too low 
 - Replace with SPYD? 
+
+# Reputable Cryptocurrency 
+- Bitcoin
+- Lite Coin
+- Orca
