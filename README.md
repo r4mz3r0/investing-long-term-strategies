@@ -7,18 +7,14 @@ Here is an example of my current strategies across my different accounts.
 | Ticker      | Percentage  |
 | ----------- | ----------- |
 | Cash| 2 months pay         |
-## M1 Finance Taxable Account - 2 Fund Portfolio
 
-| Ticker      | Percentage  |
-| ----------- | ----------- |
-| VT -Vanguard Total World Stock Index Fund ETF | 90%         |
-| BND - Vanguard Total Bond Market Index Fund ETF       |10%          |
+
 
 ## Fidelity Taxable Account - 3 Fund Portfolio 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-| Fidelity ZERO Total Market Index Fund (FZROX) | 65% |
-| Fidelity ZERO International Index Fund (FZILX) | 25% |
+| Fidelity ZERO Total Market Index Fund (FSKAX) | 60% |
+| Fidelity ZERO International Index Fund (FTIHX) | 30% |
 | Fidelity U. S. Bond Index Fund (FXNAX) | 10%         |
 
 ## Roth IRA  
