@@ -13,8 +13,8 @@ Here is an example of my current strategies across my different accounts.
 ## Fidelity Taxable Account - 3 Fund Portfolio 
 | Ticker      | Percentage  |
 | ----------- | ----------- |
-| Fidelity® Total Market Index Fund(FSKAX) | 60% |
-| Fidelity ® Total International Index Fund (FTIHX) | 30% |
+| Fidelity® Total Market Index Fund(FSKAX) | 75% |
+| Fidelity ® Total International Index Fund (FTIHX) | 15% |
 | Fidelity ® U.S. Bond Index Fund (FXNAX) | 10%         |
 
 ## Roth IRA  
