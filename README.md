@@ -34,18 +34,6 @@ Here is an example of my current strategies across my different accounts.
 | IJH     | 10%        |ESML| 5% | 
 | IJR     | 5%        |ESGD |22% | 
 |   |         |ESGE | 8% | 
-## Robinhood (Strategy Testing & Entertainment Only) 
-| Ticker      | Percentage  |
-| ----------- | ----------- |
-| Short Term & Individual Stocks (For fun)  | 100%        |
-| VBK - Canguard Small-Cap Growth ETF  | N/A     |
-| VOT - Vanguard Mid-Cap Growth ETF  | N/A     |
-| VWO - Vanguard FTSE Emerging Markets | N/A   |
-| IDEV - iShares Core MSCI International Developed Markets  | N/A   |
-|Invesco QQQ Trust Series | N/A |
-# MISC 
-Single Stocks 
--iShares Core High Dividend ETF (Should be put in a tax advantaged account) 
 # To Do 
  - Buy an I Savings Bond https://www.treasurydirect.gov/indiv/products/prod_ibonds_glance.htm 
 # Notes 
@@ -60,17 +48,3 @@ ETFs."
 - 04-01-2024
 
 
-.......
-- 04-01-2060
-
-# Market downturns
-When the market is rising save cash and invest it only during a market correct. 
-- SWTSX - Schwab Total Stock Market Index (SWTSX) 
-- ETFs, Mutual Funds, and Individual stocks 
-# Bond yields are too low 
-- Replace with SPYD? 
-
-# Reputable Cryptocurrency 
-- Bitcoin
-- Lite Coin
-- Orca
